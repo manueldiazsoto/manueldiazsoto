@@ -12,9 +12,3 @@ Programming enthusiastic 👨🏻‍💻  and eternal learner 📚
 	<a href="https://github.com/TheRealChamo"><img src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="GitHub"></a>  
 	<a href="https://www.linkedin.com/in/manueldiazsoto/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="LinkedIn"></a>
 </p>
-
-<p align="center">
-	<img src="https://drive.google.com/file/d/16j_4T44rlHrQj-Wz1yHM61nyBeMhNM7A/view?usp=sharing" height="100" width="100"> 
-</p>
-
-<iframe src="https://drive.google.com/file/d/16j_4T44rlHrQj-Wz1yHM61nyBeMhNM7A/preview" width="100" height="100"></iframe>
