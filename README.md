@@ -14,5 +14,5 @@ Programming enthusiastic 👨🏻‍💻  and eternal learner 📚
 </p>
 
 <p align="center">
-	<img src="https://github.com/TheRealChamo/personals/tree/master/resume/badges/Badge-Designer.png" alt="GitHub" height="150" width="150"> 
+	<img src="https://drive.google.com/open?id=16j_4T44rlHrQj-Wz1yHM61nyBeMhNM7A" alt="GitHub" height="150" width="150"> 
 </p>
