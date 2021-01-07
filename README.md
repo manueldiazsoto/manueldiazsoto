@@ -14,5 +14,6 @@ Programming enthusiastic 👨🏻‍💻  and eternal learner 📚
 </p>
 
 <p align="center">
-	<img src="https://drive.google.com/file/d/16j_4T44rlHrQj-Wz1yHM61nyBeMhNM7A/view?usp=sharing" alt="GitHub" height="150" width="150"> 
+	<img src="https://drive.google.com/file/d/16j_4T44rlHrQj-Wz1yHM61nyBeMhNM7A/preview" height="150" width="150">
+	<iframe src="https://drive.google.com/file/d/16j_4T44rlHrQj-Wz1yHM61nyBeMhNM7A/preview" width="150" height="150"></iframe> 
 </p>
