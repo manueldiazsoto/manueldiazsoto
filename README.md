@@ -12,3 +12,7 @@ Programming enthusiastic 👨🏻‍💻  and eternal learner 📚
 	<a href="https://github.com/TheRealChamo"><img src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="GitHub"></a>  
 	<a href="https://www.linkedin.com/in/manueldiazsoto/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="LinkedIn"></a>
 </p>
+
+<p align="center">
+	<img src="https://github.com/TheRealChamo/personals/tree/master/resume/badges/Badge-Designer.png" alt="GitHub" height="150" width="150"> 
+</p>
