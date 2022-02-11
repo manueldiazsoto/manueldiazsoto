@@ -21,21 +21,21 @@ Programming enthusiastic 👨🏻‍💻  and eternal learner 📚
 Working with...
 </br></br>
 <p align="center"> 
-    <img src="/images/icon-aws.png" width="40" height="40"/>&nbsp;
-    <img src="/images/icon-azure.jpeg" width="40" height="40"/>&nbsp;
-    <img src="/images/icon-gcp.png" width="40" height="40"/>&nbsp;
+    <img src="/images/icon-aws.png" alt="aws" width="40" height="40"/>&nbsp;
+    <img src="/images/icon-azure.jpeg" alt="azure" width="40" height="40"/>&nbsp;
+    <img src="/images/icon-gcp.png" alt="gcp" width="40" height="40"/>&nbsp;
     <img src="/images/icon-docker.png" alt="docker" width="40" height="40"/>&nbsp;
-    <img src="/images/kubernetes.png" alt="kubernetes" width="40" height="40"/>&nbsp;
+    <img src="/images/icon-kubernetes.png" alt="kubernetes" width="40" height="40"/>&nbsp;
     <img src="/images/icon-linux.jpeg" alt="linux" width="40" height="40"/>&nbsp;
     <img src="/images/icon-git.png" alt="git" width="40" height="40"/>&nbsp;
     <img src="/images/icon-postman.jpeg" alt="postman" width="40" height="40"/>&nbsp;
 </p>
 <p align="center"> 
-    <img src="" alt="html5" width="40" height="40"/>&nbsp;
-    <img src="" alt="css3" width="40" height="40"/>&nbsp;
-    <img src="" alt="javascript" width="40" height="40"/>&nbsp;
-    <img src="" alt="mysql" width="40" height="40"/>&nbsp;
-    <img src="" alt="mongodb" width="40" height="40"/>&nbsp;
-    <img src="" alt="cockroachdb" width="40" height="40"/>&nbsp;
-    <img src="" alt="oracle" width="40" height="40"/>&nbsp;
+    <img src="/images/icon-html5.png" alt="html5" width="40" height="40"/>&nbsp;
+    <img src="/images/icon-css.png" alt="css3" width="40" height="40"/>&nbsp;
+    <img src="/images/icon-javascript.png" alt="javascript" width="40" height="40"/>&nbsp;
+    <img src="/images/icon-mysql.png" alt="mysql" width="40" height="40"/>&nbsp;
+    <img src="/images/icon-mongodb.png" alt="mongodb" width="40" height="40"/>&nbsp;
+    <img src="/images/icon-cockroachdb.png" alt="cockroachdb" width="40" height="40"/>&nbsp;
+    <img src="/images/icon-oracle.png" alt="oracle" width="40" height="40"/>&nbsp;
 </p>
