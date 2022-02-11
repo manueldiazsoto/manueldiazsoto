@@ -15,7 +15,7 @@ Programming enthusiastic 👨🏻‍💻  and eternal learner 📚
     <a href="https://www.credly.com/users/manuel-ignacio-diaz-soto"><img src="/images/icon-credly.png" alt="Credly" height="75" width="75"></a>
     <a href="https://www.credential.net/profile/manuelignaciodiazsoto273400/wallet"><img src="/images/icon-accredible.png" alt="Accredible.net" height="75" width="75"></a>
     <a href="https://g.dev/TheRealChamo"><img src="/images/icon-googledev.png" alt="Google Developer" height="75" width="75"></a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/120ef6de-26a5-42d4-93ce-e239968f37ab"><img src="/images/icon-qwiklabs.jpeg" alt="QwikLabs" height="75" width="50"></a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/120ef6de-26a5-42d4-93ce-e239968f37ab"><img src="/images/icon-qwiklabs.jpeg" alt="QwikLabs" height="75" width="75"></a>
 </p>
 </br></br>
 Working with...
