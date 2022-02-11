@@ -22,7 +22,7 @@ Working with...
 </br></br>
 <p align="center"> 
     <img src="/images/icon-aws.png" alt="aws" width="40" height="40"/>&nbsp;
-    <img src="/images/icon-azure.png" alt="azure" width="40" height="40"/>&nbsp;
+    <img src="/images/icon-azure.jpeg" alt="azure" width="40" height="40"/>&nbsp;
     <img src="/images/icon-gcp.png" alt="gcp" width="40" height="40"/>&nbsp;
     <img src="" alt="docker" width="40" height="40"/>&nbsp;
     <img src="" alt="kubernetes" width="40" height="40"/>&nbsp;
