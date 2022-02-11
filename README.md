@@ -1,4 +1,4 @@
-# Manuel Ignacio Díaz Soto  #
+# Manuel Díaz Soto  #
 
 I am a Networking Engineer 🎓  reinvented myself to Cloud 💬  
 Programming enthusiastic 👨🏻‍💻  and eternal learner 📚  
@@ -9,14 +9,18 @@ Programming enthusiastic 👨🏻‍💻  and eternal learner 📚
 - 📨  How to reach me: **diazsm@gmail.com**
 
 <p align="center">
-	<a href="https://github.com/TheRealChamo"><img src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="GitHub"></a>  
-	<a href="https://www.linkedin.com/in/manueldiazsoto/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="LinkedIn"></a>
+	<a href="https://github.com/TheRealChamo"><img src="/images/icon-github.png" alt="GitHub" height="75" width="75"></a>  
+	<a href="https://www.linkedin.com/in/manueldiazsoto/"><img src="/images/icon-linkedin.png" alt="LinkedIn" height="75" width="75"></a>
+    <a href="https://www.credly.com/users/manuel-ignacio-diaz-soto"><img src="/images/icon-credly.png" alt="Credly" height="75" width="75"></a>
+    <a href="https://www.credential.net/profile/manuelignaciodiazsoto273400/wallet"><img src="" alt="Accredible.net" height="75" width="75"></a>
+    <a href="https://g.dev/TheRealChamo"><img src="/images/icon-googledev.png" alt="Google Developer" height="75" width="75"></a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/120ef6de-26a5-42d4-93ce-e239968f37ab"><img src="/images/icon-qwiklabs.jpeg" alt="QwikLabs" height="75" width="75"></a>
 </p>
 
-Working on...
+Working with...
 
 <p align="center"> 
-    <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>&nbsp;&nbsp;&nbsp;</a>
+    <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>&nbsp;&nbsp;&nbsp;</a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>&nbsp;&nbsp;&nbsp;</a> 
     <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>&nbsp;&nbsp;&nbsp;</a> 
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>&nbsp;&nbsp;&nbsp;</a> 
