@@ -8,17 +8,18 @@ Programming enthusiastic 👨🏻‍💻  and eternal learner 📚
 - 👐🏻  I’m looking to collaborate on any interesting and challenging project
 - 📨  How to reach me: **diazsm@gmail.com**
 
+</br></br>
 <p align="center">
-	<a href="https://github.com/TheRealChamo"><img src="/images/icon-github.png" alt="GitHub" height="75" width="75"></a>  
-	<a href="https://www.linkedin.com/in/manueldiazsoto/"><img src="/images/icon-linkedin.png" alt="LinkedIn" height="75" width="75"></a>
-    <a href="https://www.credly.com/users/manuel-ignacio-diaz-soto"><img src="/images/icon-credly.png" alt="Credly" height="75" width="75"></a>
-    <a href="https://www.credential.net/profile/manuelignaciodiazsoto273400/wallet"><img src="" alt="Accredible.net" height="75" width="75"></a>
-    <a href="https://g.dev/TheRealChamo"><img src="/images/icon-googledev.png" alt="Google Developer" height="75" width="75"></a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/120ef6de-26a5-42d4-93ce-e239968f37ab"><img src="/images/icon-qwiklabs.jpeg" alt="QwikLabs" height="75" width="75"></a>
+	<a href="https://github.com/TheRealChamo"><img src="/images/icon-github.png" alt="GitHub" height="50" width="50"></a>  
+	<a href="https://www.linkedin.com/in/manueldiazsoto/"><img src="/images/icon-linkedin.png" alt="LinkedIn" height="50" width="50"></a>
+    <a href="https://www.credly.com/users/manuel-ignacio-diaz-soto"><img src="/images/icon-credly.png" alt="Credly" height="50" width="50"></a>
+    <a href="https://www.credential.net/profile/manuelignaciodiazsoto273400/wallet"><img src="/images/icon-accredible.png" alt="Accredible.net" height="50" width="50"></a>
+    <a href="https://g.dev/TheRealChamo"><img src="/images/icon-googledev.png" alt="Google Developer" height="50" width="50"></a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/120ef6de-26a5-42d4-93ce-e239968f37ab"><img src="/images/icon-qwiklabs.jpeg" alt="QwikLabs" height="50" width="50"></a>
 </p>
-
+</br></br>
 Working with...
-
+</br></br>
 <p align="center"> 
     <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>&nbsp;&nbsp;&nbsp;</a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>&nbsp;&nbsp;&nbsp;</a> 
