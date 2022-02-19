@@ -1,7 +1,7 @@
 # Manuel Díaz Soto  #
 ## About Me ##
 
-<div style="text-align: center;" markdown="1">
+<div style="text-align: center; align-content: center;" markdown="1">
 
 I am a Networking Engineer 🎓  reinvented myself to Cloud 💬  
 Programming enthusiastic 👨🏻‍💻  and eternal learner 📚  
@@ -15,7 +15,7 @@ Programming enthusiastic 👨🏻‍💻  and eternal learner 📚
 
 ## How to reach me ##
 
-<div style="text-align: center;" markdown="1">
+<div style="text-align: center; align-content: center;" markdown="1">
     </br></br><p align="center">
     	<a href="https://github.com/TheRealChamo"><img src="/images/icon-github.png" alt="GitHub" height="75" width="75"></a>&nbsp;&nbsp;  
     	<a href="https://www.linkedin.com/in/manueldiazsoto/"><img src="/images/icon-linkedin.png" alt="LinkedIn" height="75" width="75"></a>&nbsp;&nbsp;
@@ -28,7 +28,7 @@ Programming enthusiastic 👨🏻‍💻  and eternal learner 📚
 
 ## Stats 📈 ##
 
-<div style="text-align: center;" markdown="1">
+<div style="text-align: center; align-content: center;" markdown="1">
 
 ![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api/?username=thechamo&hide=contribs,prs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
   
