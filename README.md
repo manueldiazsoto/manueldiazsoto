@@ -10,14 +10,45 @@
 
 ## How to reach me ##
 
-<ul>
-    <li style="display:inline-block; vertical-align:middle"><a href="https://github.com/TheRealChamo"><img src="/images/icon-github.png" alt="GitHub" height="25" width="25" style="display:flex; justify-content: center; align-items: center;"></a>&nbsp;&nbsp;<span style="display:inline-block; vertical-align:middle">GitHub</span></li>
-    <li style="display:inline-block; vertical-align:middle"><a href="https://www.linkedin.com/in/manueldiazsoto/"><img src="/images/icon-linkedin.png" alt="LinkedIn" height="25" width="25"></a>&nbsp;&nbsp;<span>LinkedIn</span></li>
-    <li style="display:inline-block; vertical-align:middle"><a href="https://www.credly.com/users/manuel-ignacio-diaz-soto"><img src="/images/icon-credly.png" alt="Credly" height="25" width="25"></a>&nbsp;&nbsp;<span>Credly</span></li>
-    <li style="display:inline-block; vertical-align:middle"><a href="https://www.credential.net/profile/manuelignaciodiazsoto273400/wallet"><img src="/images/icon-accredible.png" alt="Accredible.net" height="25" width="25"></a>&nbsp;&nbsp;<span>Accredible.net</span></li>
-    <li style="display:inline-block; vertical-align:middle"><a href="https://g.dev/TheRealChamo"><img src="/images/icon-googledev.png" alt="Google Developer" height="25" width="25"></a>&nbsp;&nbsp;<span>Google Developer</span></li>
-    <li style="display:inline-block; vertical-align:middle"><a href="https://www.cloudskillsboost.google/public_profiles/120ef6de-26a5-42d4-93ce-e239968f37ab"><img src="/images/icon-qwiklabs.jpeg" alt="QwikLabs" height="25" width="25"></a>&nbsp;&nbsp;<span>QwikLabs</span></li>
-</ul>
+<div align="center">
+    <table align="center">
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>GitHub</br><a href="https://github.com/TheRealChamo"><img src="/images/icon-github.png" alt="GitHub" height="40" width="40"></a></td>
+            <td></td>
+            <td>LinkedIn</br><a href="https://www.linkedin.com/in/manueldiazsoto/"><img src="/images/icon-linkedin.png" alt="LinkedIn" height="25" width="25"></a></td>
+            <td></td>
+            <td>Credly</br><a href="https://www.credly.com/users/manuel-ignacio-diaz-soto"><img src="/images/icon-credly.png" alt="Credly" height="25" width="25"></a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Accredible.net</br><a href="https://www.credential.net/profile/manuelignaciodiazsoto273400/wallet"><img src="/images/icon-accredible.png" alt="Accredible.net" height="25" width="25"></a></td>
+            <td></td>
+            <td>Google Developer</br><a href="https://g.dev/TheRealChamo"><img src="/images/icon-googledev.png" alt="Google Developer" height="25" width="25"></a></td>
+            <td></td>
+            <td>QwikLabs</br><a href="https://www.cloudskillsboost.google/public_profiles/120ef6de-26a5-42d4-93ce-e239968f37ab"><img src="/images/icon-qwiklabs.jpeg" alt="QwikLabs" height="25" width="25"></a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</div>
 
 ## Stats 📈 ##
 
