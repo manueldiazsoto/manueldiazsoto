@@ -11,12 +11,12 @@
 ## How to reach me ##
 
 <ul>
-  <li><a href="https://github.com/TheRealChamo"><img src="/images/icon-github.png" alt="GitHub" height="45" width="45">https://github.com/TheRealChamo</a></li>
-  <li><a href="https://www.linkedin.com/in/manueldiazsoto/"><img src="/images/icon-linkedin.png" alt="LinkedIn" height="45" width="45">https://www.linkedin.com/in/manueldiazsoto/</a></li>
-  <li><a href="https://www.credly.com/users/manuel-ignacio-diaz-soto"><img src="/images/icon-credly.png" alt="Credly" height="45" width="45">https://www.credly.com/users/manuel-ignacio-diaz-soto</a></li>
-  <li><a href="https://www.credential.net/profile/manuelignaciodiazsoto273400/wallet"><img src="/images/icon-accredible.png" alt="Accredible.net" height="45" width="45">https://www.credential.net/profile/manuelignaciodiazsoto273400/wallet</a></li>
-  <li><a href="https://g.dev/TheRealChamo"><img src="/images/icon-googledev.png" alt="Google Developer" height="45" width="45">https://g.dev/TheRealChamo</a></li>
-  <li><a href="https://www.cloudskillsboost.google/public_profiles/120ef6de-26a5-42d4-93ce-e239968f37ab"><img src="/images/icon-qwiklabs.jpeg" alt="QwikLabs" height="45" width="45">https://www.cloudskillsboost.google/public_profiles/120ef6de-26a5-42d4-93ce-e239968f37ab</a></li>
+    <li><a href="https://github.com/TheRealChamo"><img src="/images/icon-github.png" alt="GitHub" height="40" width="40" style="display:flex; justify-content: center; align-items: center;">&nbsp;&nbsp;GitHub</a></li>
+    <li><a href="https://www.linkedin.com/in/manueldiazsoto/"><img src="/images/icon-linkedin.png" alt="LinkedIn" height="40" width="40">&nbsp;&nbsp;LinkedIn</a></li>
+    <li><a href="https://www.credly.com/users/manuel-ignacio-diaz-soto"><img src="/images/icon-credly.png" alt="Credly" height="40" width="40">&nbsp;&nbsp;Credly</a></li>
+    <li><a href="https://www.credential.net/profile/manuelignaciodiazsoto273400/wallet"><img src="/images/icon-accredible.png" alt="Accredible.net" height="40" width="40">&nbsp;&nbsp;Accredible.net</a></li>
+    <li><a href="https://g.dev/TheRealChamo"><img src="/images/icon-googledev.png" alt="Google Developer" height="40" width="40">&nbsp;&nbsp;Google Developer</a></li>
+    <li><a href="https://www.cloudskillsboost.google/public_profiles/120ef6de-26a5-42d4-93ce-e239968f37ab"><img src="/images/icon-qwiklabs.jpeg" alt="QwikLabs" height="40" width="40">&nbsp;&nbsp;QwikLabs</a></li>
 </ul>
 
 ## Stats 📈 ##
