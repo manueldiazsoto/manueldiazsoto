@@ -1,15 +1,14 @@
-# Manuel Díaz Soto  #
+## Manuel Díaz Soto  #
 ## About Me ##
 
 <div style="text-align: center; align-content: center;" markdown="1">
 
-I am a Networking Engineer 🎓  reinvented myself to Cloud 💬  
-Programming enthusiastic 👨🏻‍💻  and eternal learner 📚  
-
-💻  I’m currently working as **Cloud Engineer, SSr.**  
-☁️  I’m just beginning my Cloud Journey  
-👐🏻  I’m looking to collaborate on any interesting and challenging project  
-📨  How to reach me: **diazsm@gmail.com**  
+- Networking Engineer 🎓  reinvented to Cloud 💬  
+- Programming enthusiastic 👨🏻‍💻  and eternal learner 📚  
+- Currently working 💻 as **Cloud Engineer, SSr.**  
+- Just beginning my Cloud Journey ☁️  
+- Looking to collaborate 👐🏻 on any interesting and challenging project  
+- How to reach me: 📨 **diazsm@gmail.com**  
 
 </div>
 
@@ -29,9 +28,6 @@ Programming enthusiastic 👨🏻‍💻  and eternal learner 📚
 ## Stats 📈 ##
 
 <div style="text-align: center; align-content: center;" markdown="1">
-
-![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api/?username=thechamo&hide=contribs,prs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
-  
-![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thechamo&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
-
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=thechamo&hide=contribs,prs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"></br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thechamo&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </div>
