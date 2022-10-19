@@ -11,15 +11,15 @@
 ## How to reach me ##
 
 </br></br><p align="center">
-    <table>
+    <table style="margin: 0 auto;">
         <tbody>
             <tr style="background-color:white">
-                <td><a href="https://github.com/manueldiazsoto"><img src="/images/icon-github.png" alt="GitHub" height="75" width="75"></a></td>
-	            <td><a href="https://www.linkedin.com/in/manueldiazsoto/"><img src="/images/icon-linkedin.png" alt="LinkedIn" height="75" width="75"></a></td>
-                <td><a href="https://www.credly.com/users/manueldiazsoto"><img src="/images/icon-credly.png" alt="Credly" height="75" width="75"></a></td>
-                <td><a href="https://www.credential.net/profile/manueldiazsoto/wallet"><img src="/images/icon-accredible.png" alt="Accredible.net" height="75" width="75"></a></td>
-                <td><a href="https://g.dev/manueldiazsoto"><img src="/images/icon-googledev.png" alt="Google Developer" height="75" width="75"></a></td>
-                <td><a href="https://www.cloudskillsboost.google/public_profiles/120ef6de-26a5-42d4-93ce-e239968f37ab"><img src="/images/icon-qwiklabs.jpeg" alt="QwikLabs" height="75" width="75"></a></td>
+                <td style="background-color:white"><a href="https://github.com/manueldiazsoto"><img src="/images/icon-github.png" alt="GitHub" height="75" width="75"></a></td>
+	            <td style="background-color:white"><a href="https://www.linkedin.com/in/manueldiazsoto/"><img src="/images/icon-linkedin.png" alt="LinkedIn" height="75" width="75"></a></td>
+                <td style="background-color:white"><a href="https://www.credly.com/users/manueldiazsoto"><img src="/images/icon-credly.png" alt="Credly" height="75" width="75"></a></td>
+                <td style="background-color:white"><a href="https://www.credential.net/profile/manueldiazsoto/wallet"><img src="/images/icon-accredible.png" alt="Accredible.net" height="75" width="75"></a></td>
+                <td style="background-color:white"><a href="https://g.dev/manueldiazsoto"><img src="/images/icon-googledev.png" alt="Google Developer" height="75" width="75"></a></td>
+                <td style="background-color:white"><a href="https://www.cloudskillsboost.google/public_profiles/120ef6de-26a5-42d4-93ce-e239968f37ab"><img src="/images/icon-qwiklabs.jpeg" alt="QwikLabs" height="75" width="75"></a></td>
             </tr>
         </tbody>
     </table>
