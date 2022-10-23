@@ -12,7 +12,7 @@
 
 </br></br><p align="center">
     <div style="text-align:center;">
-    <table style="margin: 0 auto background-color:white">
+    <table style="margin: 0 auto; background-color:white">
         <tbody style="background-color:white">
             <tr style="background-color:white">
                 <td style="background-color:white"><a href="https://github.com/manueldiazsoto"><img src="/images/icon-github.png" alt="GitHub" height="75" width="75"></a></td>
