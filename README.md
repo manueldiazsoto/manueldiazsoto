@@ -10,9 +10,9 @@
 
 ## How to reach me ##
 
-</br></br><p align="center">
-    <div style="text-align:center;">
-        <table style="margin: 0 auto">
+<p>
+    <div>
+        <table>
             <tbody>
                 <tr>
                     <td>
@@ -27,7 +27,7 @@
             </tbody>
         </table>
     </div>
-</p></br></br>
+</p>
 
 ## Stats 📈 ##
 
