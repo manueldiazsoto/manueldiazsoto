@@ -1,14 +1,10 @@
-## Manuel Díaz Soto  #
-</br>
 <p align="center">
-    <img src="/images/me.png" height="200" width="200">
+    <h1 align="center">Manuel Diaz Soto</h1>
+    <img align="center" src="/images/me.png" height="200" width="200">
 </p>
 
-## About Me ##
-<br/>
-
----
-
+## About Me ##  
+  
 - Networking Engineer 🎓  reinvented to Cloud 💬  
 - Programming enthusiastic 👨🏻‍💻  and eternal learner 📚  
 - Currently working 💻 as **Cloud Engineer, SSr.**  
@@ -16,10 +12,8 @@
 - Looking to collaborate 👐🏻 on any interesting and challenging project  
 - How to reach me: 📨 **diazsm@gmail.com**  
 
-## How to reach me ##
-<br/>
+## How to reach me ##  
 
----
 <p align="center">
     <a href="https://github.com/manueldiazsoto"><img src="/images/icon-github.png" alt="GitHub" height="65" width="65"></a>
     <a href="https://www.linkedin.com/in/manueldiazsoto/"><img src="/images/icon-linkedin.png" alt="LinkedIn" height="65" width="65"></a>
