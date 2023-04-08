@@ -1,7 +1,4 @@
 <h1 align="center">Manuel Diaz Soto</h1>
-<p align="center">
-    <img align="center" src="/images/me.png" height="200" width="200">
-</p>
 <br/>
 <h1 align="center">About Me</h1>
 <br/>
