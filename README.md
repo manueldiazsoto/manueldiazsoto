@@ -5,7 +5,7 @@
 <ul>
     <li>Networking Engineer 🎓  reinvented to Cloud 💬</li>
     <li>Programming enthusiastic 👨🏻‍💻  and eternal learner 📚</li>
-    <li>Currently working 💻 as <strong>Senior Cloud Consultant</strong></li>
+    <li>Currently working 💻 as <strong>Senior Cloud Engineer</strong></li>
     <li>Just beginning my Cloud Journey ☁️</li>
     <li>Looking to collaborate 👐🏻 on any interesting and challenging project</li>
     <li>How to reach me: 📨 <strong>diazsm@gmail.com</strong></li>
