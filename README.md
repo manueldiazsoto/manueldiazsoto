@@ -2,14 +2,7 @@
 <br/>
 <h1 align="center">About Me</h1>
 <br/>
-<ul>
-    <li>Networking Engineer 🎓  reinvented to Cloud 💬</li>
-    <li>Programming enthusiastic 👨🏻‍💻  and eternal learner 📚</li>
-    <li>Currently working 💻 as <strong>Senior Consultant</strong></li>
-    <li>Just beginning my Cloud Journey ☁️</li>
-    <li>Looking to collaborate 👐🏻 on any interesting and challenging project</li>
-    <li>How to reach me: 📨 <strong>diazsm@gmail.com</strong></li>
-    </ul>
+<p align="center">| Networking Engineer 🎓 reinvented to Cloud 💬 |<br>| Programming enthusiastic 👨🏻‍💻 and eternal learner 📚 |<br>| Currently working 💻 as <strong>Senior Consultant</strong> |</p>
 <br/>
 <h1 align="center">How to reach me</h1>
 <br/>
