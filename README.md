@@ -1,13 +1,13 @@
 # Hi, I'm Manuel 👋🏻 #
 
-## About Me ##
+## 👨🏻‍💻 About Me ##
 
 - Networking Engineer 🎓 reinvented to Cloud 💬 
 - Programming enthusiastic 👨🏻‍💻 
 - Eternal learner 📚 
 - Currently working 💻 as <strong>Senior Consultant</strong>
 
-## Connect with me ##
+## 🔗 Connect with me ##
 
 <p align="center">
     <a href="https://github.com/manueldiazsoto"><img src="/images/icon-github.png" alt="GitHub" height="65" width="65"></a>
@@ -18,10 +18,10 @@
     <a href="https://www.cloudskillsboost.google/public_profiles/120ef6de-26a5-42d4-93ce-e239968f37ab"><img src="/images/icon-qwiklabs.jpeg" alt="QwikLabs" height="65" width="65"></a>
 </p>
 
-## Certifications ##
+## 🏅 Certifications ##
 
 <details>
-    <summary>Aviatrix Certification</summary>
+    <summary><strong>Aviatrix Certification</strong></summary>
     <table style="border-collapse:collapse;">
         <tr>
             <td width="150"><p align="center"><img src="/images/badge_aviatrix_multicloud_network_associate.png" alt="" height="125" wi
@@ -34,7 +34,7 @@
 </details>
 
 <details>
-    <summary>Google Cloud Certification</summary>
+    <summary><strong>Google Cloud Certification</strong></summary>
     <table style="border-collapse:collapse;">
         <tr>
             <td width="150"><p align="center"><img src="/images/badge_google_cloud_certified_cloud_digital_leader.png" alt="" height="125" width="125"></p></td>
@@ -46,7 +46,7 @@
 </details>
 
 <details>
-    <summary>AWS Certification</summary>
+    <summary><strong>AWS Certification</strong></summary>
     <table style="border-collapse:collapse;">
         <tr>
             <td width="150"><p align="center"><img src="/images/badge_aws_certified_cloud_practitioner.png" alt="" height="125" width="125"></p></td>
@@ -60,17 +60,19 @@
 </details>
 
 <details>
-  <summary>Microsoft Certification</summary>
+  <summary><strong>Microsoft Certification</strong></summary>
   <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
 </details>
 
 <details>
-  <summary>Oracle Cloud Certification</summary>
+  <summary><strong>Oracle Cloud Certification</strong></summary>
   <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
 </details>
 
-## Stats 📈 ##
+<!-- 
+## 📈 Stats ##
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueldiazsoto&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="150"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=manueldiazsoto&hide=contribs,prs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="150">
 </p>
+--> 
