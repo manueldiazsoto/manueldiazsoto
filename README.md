@@ -24,7 +24,7 @@
     <summary>Aviatrix Certification</summary>
     <table style="border-collapse:collapse;">
         <tr>
-            <td width="25%"><p align="center"><img src="/images/badge_aviatrix_multicloud_network_associate.png" alt="" height="125" wi
+            <td width="150"><p align="center"><img src="/images/badge_aviatrix_multicloud_network_associate.png" alt="" height="125" wi
             dth="125"></p></td>
         </tr>
         <tr>
@@ -37,7 +37,7 @@
     <summary>Google Cloud Certification</summary>
     <table style="border-collapse:collapse;">
         <tr>
-            <td width="25%"><p align="center"><img src="/images/badge_google_cloud_certified_cloud_digital_leader.png" alt="" height="125" width="125"></p></td>
+            <td width="150"><p align="center"><img src="/images/badge_google_cloud_certified_cloud_digital_leader.png" alt="" height="125" width="125"></p></td>
         </tr>
         <tr>
             <td><p align="center"><a href="https://www.credential.net/5916bb03-d3bf-4c74-a186-88db50f071ff">Google Cloud Certified - Cloud Digital Leader</a></p></td>
@@ -49,8 +49,8 @@
     <summary>AWS Certification</summary>
     <table style="border-collapse:collapse;">
         <tr>
-            <td width="25%"><p align="center"><img src="/images/badge_aws_certified_cloud_practitioner.png" alt="" height="125" width="125"></p></td>
-            <td width="25%"><p align="center"><img src="/images/badge_aws_certified_solutions_architect_associate.png" alt="" height="125" width="125"></p></td>
+            <td width="150"><p align="center"><img src="/images/badge_aws_certified_cloud_practitioner.png" alt="" height="125" width="125"></p></td>
+            <td width="150"><p align="center"><img src="/images/badge_aws_certified_solutions_architect_associate.png" alt="" height="125" width="125"></p></td>
         </tr>
         <tr>
             <td><p align="center"><a href="https://www.credly.com/badges/14377f94-0763-40ff-8172-acbb445a0f0b">AWS Certified Cloud Practitioner</a></p></td>
