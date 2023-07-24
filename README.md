@@ -22,6 +22,7 @@
 
 <details>
     <summary><strong>Aviatrix Certification</strong></summary>
+    </br>
     <table>
         <tr>
             <td width="200"><p align="center"><img src="/images/badge_aviatrix_multicloud_network_associate.png" alt="" height="125" wi
@@ -100,7 +101,7 @@
             <td width="200"></td>
         </tr>
         <tr>
-            <td width="200"><p align="center"><img src="/images/badge_ms_dp100" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="/images/badge_ms_dp100.png" alt="" height="125" width="125"></p></td>
             <td width="200"><p align="center"><img src="#" alt="" height="125" width="125"></p></td>
             <td width="200"><p align="center"><img src="#" alt="" height="125" width="125"></p></td>
             <td width="200"><p align="center"><img src="#" alt="" height="125" width="125"></p></td>
