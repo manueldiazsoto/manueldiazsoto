@@ -20,12 +20,12 @@
 
 ## Certifications ##
 
-<table style="width: 100%; text-align: center;">
-    <tr style="text-align: center;">
-        <td style="text-align: center;"><img src="/images/badge_aviatrix_multicloud_network_associate.png" alt="" height="100" width="100"></td>
-        <td style="text-align: center;"><img src="/images/badge_google_cloud_certified_cloud_digital_leader.png" alt="" height="100" width="100"></td>
-        <td style="text-align: center;"><img src="/images/badge_aws_certified_cloud_practitioner.png" alt="" height="100" width="100"></td>
-        <td style="text-align: center;"><img src="/images/badge_aws_certified_solutions_architect_associate.png" alt="" height="100" width="100"></td>
+<table>
+    <tr>
+        <td style="text-align: center;"><p align="center"><img src="/images/badge_aviatrix_multicloud_network_associate.png" alt="" height="100" width="100"></p></td>
+        <td style="text-align: center;"><p align="center"><img src="/images/badge_google_cloud_certified_cloud_digital_leader.png" alt="" height="100" width="100"></p></td>
+        <td style="text-align: center;"><p align="center"><img src="/images/badge_aws_certified_cloud_practitioner.png" alt="" height="100" width="100"></td>
+        <td style="text-align: center;"><p align="center"><img src="/images/badge_aws_certified_solutions_architect_associate.png" alt="" height="100" width="100"></td>
     </tr>
     <tr>
         <td><a href="https://www.credly.com/badges/b321726a-fec4-495e-ab7e-e8814d8b9f59">Aviatrix Certified Engineer - Multi-Cloud Network Associate</a></td>
@@ -34,23 +34,6 @@
         <td><a href="https://www.credly.com/badges/313bb8d3-5314-4bab-9032-376fe8bf1f67">AWS Certified Solutions Architect - Associate</a></td>
     </tr>
 </table>
-
-<body>
-  <div style="display: table; width: 100%; border-collapse: collapse;">
-    <div style="display: table-row;">
-      <div style="display: table-cell; border: 1px solid black; text-align: center; padding: 10px;">Texto 1</div>
-      <div style="display: table-cell; border: 1px solid black; text-align: center; padding: 10px;">Texto 2</div>
-      <div style="display: table-cell; border: 1px solid black; text-align: center; padding: 10px;"><img src="ruta_de_la_imagen_1.jpg" width="100" height="100" alt="Imagen 1"></div>
-      <div style="display: table-cell; border: 1px solid black; text-align: center; padding: 10px;">Texto 3</div>
-    </div>
-    <div style="display: table-row;">
-      <div style="display: table-cell; border: 1px solid black; text-align: center; padding: 10px;"><img src="ruta_de_la_imagen_2.jpg" width="100" height="100" alt="Imagen 2"></div>
-      <div style="display: table-cell; border: 1px solid black; text-align: center; padding: 10px;">Texto 4</div>
-      <div style="display: table-cell; border: 1px solid black; text-align: center; padding: 10px;">Texto 5</div>
-      <div style="display: table-cell; border: 1px solid black; text-align: center; padding: 10px;"><img src="ruta_de_la_imagen_3.jpg" width="100" height="100" alt="Imagen 3"></div>
-    </div>
-  </div>
-</body>
 
 ## Stats 📈 ##
 
