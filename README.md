@@ -36,6 +36,7 @@
 
 <details>
     <summary><strong>Google Cloud Certification</strong></summary>
+    </br>
     <table>
         <tr>
             <td width="200"><p align="center"><img src="/images/badge_google_cloud_certified_cloud_digital_leader.png" alt="" height="125" width="125"></p></td>
@@ -48,6 +49,7 @@
 
 <details>
     <summary><strong>AWS Certification</strong></summary>
+    </br>
     <table>
         <tr>
             <td width="200"><p align="center"><img src="/images/badge_aws_certified_cloud_practitioner.png" alt="" height="125" width="125"></p></td>
@@ -61,7 +63,8 @@
 </details>
 
 <details>
-  <summary><strong>Microsoft Certification</strong></summary>
+    <summary><strong>Microsoft Certification</strong></summary>
+    </br>
     <table>
         <tr>
             <td width="200"><p align="center"><img src="/images/badge_ms_az900.png" alt="" height="125" width="125"></p></td>
@@ -73,8 +76,7 @@
             <td><p align="center"><a href="https://www.credly.com/badges/4e80a159-65e4-4832-8ae2-42e691cb33f0">Microsoft Certified: Azure Fundamentals</a></p></td>
             <td><p align="center"><a href="https://www.credly.com/badges/b4891267-919b-4114-8982-3d702a9d8dbd">Microsoft Certified: Azure Data Fundamentals</a></p></td>
             <td><p align="center"><a href="https://www.credly.com/badges/a2fa37c2-9f9f-487a-bcb8-fdd046b38eb8">Microsoft Certified: Azure AI Fundamentals</a></p></td>
-            <td><p align="center"><a href="https://www.credly.com/badges/3e35d29b-f358-4ff6-b869-8946d3e877b3">Microsoft Certified: Power Platform Fundamental
-</a></p></td>
+            <td><p align="center"><a href="https://www.credly.com/badges/3e35d29b-f358-4ff6-b869-8946d3e877b3">Microsoft Certified: Power Platform Fundamentals</a></p></td>
         </tr>
         <tr>
             <td width="200"></td>
@@ -117,6 +119,7 @@
 
 <details>
     <summary><strong>Oracle Cloud Certification</strong></summary>
+    </br>
     <table>
         <tr>
             <td width="200"><p align="center"><img src="/images/badge_oracle_cloud_infrastructure_foundations_2021_certified_associate.png" alt="" height="125" wi
@@ -131,7 +134,8 @@
 ## 🎖  Reconocimientos ##
 
 <details>
-  <summary><strong>Microsoft Certified Trainer</strong></summary>
+    <summary><strong>Microsoft Certified Trainer</strong></summary>
+    </br>
     <table>
         <tr>
             <td width="200"><p align="center"><img src="/images/badge_mct_21-22.png" alt="" height="125" width="125"></p></td>
