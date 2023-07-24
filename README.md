@@ -20,26 +20,55 @@
 
 ## Certifications ##
 
-<table style="border-collapse:collapse;">
-    <tr>
-        <td width="25%"><p align="center"><img src="/images/badge_aviatrix_multicloud_network_associate.png" alt="" height="100" width="100"></p></td>
-        <td width="25%"><p align="center"><img src="/images/badge_google_cloud_certified_cloud_digital_leader.png" alt="" height="100" width="100"></p></td>
-        <td width="25%"><p align="center"><img src="/images/badge_aws_certified_cloud_practitioner.png" alt="" height="100" width="100"></p></td>
-        <td width="25%"><p align="center"><img src="/images/badge_aws_certified_solutions_architect_associate.png" alt="" height="100" width="100"></p></td>
-    </tr>
-    <tr>
-        <td><p align="center"><a href="https://www.credly.com/badges/b321726a-fec4-495e-ab7e-e8814d8b9f59">Aviatrix Certified Engineer - Multi-Cloud Network Associate</a></p></td>
-        <td><p align="center"><a href="https://www.credential.net/5916bb03-d3bf-4c74-a186-88db50f071ff">Google Cloud Certified - Cloud Digital Leader</a></p></td>
-        <td><p align="center"><a href="https://www.credly.com/badges/14377f94-0763-40ff-8172-acbb445a0f0b">AWS Certified Cloud Practitioner</a></p></td>
-        <td><p align="center"><a href="https://www.credly.com/badges/313bb8d3-5314-4bab-9032-376fe8bf1f67">AWS Certified Solutions Architect - Associate</a></p></td>
-    </tr>
-</table>
+<details>
+    <summary>Aviatrix Certification</summary>
+    <table style="border-collapse:collapse;">
+        <tr>
+            <td width="25%"><p align="center"><img src="/images/badge_aviatrix_multicloud_network_associate.png" alt="" height="125" wi
+            dth="125"></p></td>
+        </tr>
+        <tr>
+            <td><p align="center"><a href="https://www.credly.com/badges/b321726a-fec4-495e-ab7e-e8814d8b9f59">Aviatrix Certified Engineer - Multi-Cloud Network Associate</a></p></td>
+        </tr>
+    </table>
+</details>
 
+<details>
+    <summary>Google Cloud Certification</summary>
+    <table style="border-collapse:collapse;">
+        <tr>
+            <td width="25%"><p align="center"><img src="/images/badge_google_cloud_certified_cloud_digital_leader.png" alt="" height="125" width="125"></p></td>
+        </tr>
+        <tr>
+            <td><p align="center"><a href="https://www.credential.net/5916bb03-d3bf-4c74-a186-88db50f071ff">Google Cloud Certified - Cloud Digital Leader</a></p></td>
+        </tr>
+    </table>
+</details>
 
-|              |              |              |
-| :----------: | :----------: | :----------: |
-| <img src="/images/badge_aviatrix_multicloud_network_associate.png" alt="" height="100" width="100"> | <img src="/images/badge_google_cloud_certified_cloud_digital_leader.png" alt="" height="100" width="100"> | <img src="/images/badge_aws_certified_cloud_practitioner.png" alt="" height="100" width="100"> |
-| [Aviatrix Certified Engineer - Multi-Cloud Network Associate](https://www.credly.com/badges/b321726a-fec4-495e-ab7e-e8814d8b9f59) | [Google Cloud Certified - Cloud Digital Leader](https://www.credential.net/5916bb03-d3bf-4c74-a186-88db50f071ff) | [AWS Certified Cloud Practitioner](https://www.credly.com/badges/14377f94-0763-40ff-8172-acbb445a0f0b) |
+<details>
+    <summary>AWS Certification</summary>
+    <table style="border-collapse:collapse;">
+        <tr>
+            <td width="25%"><p align="center"><img src="/images/badge_aws_certified_cloud_practitioner.png" alt="" height="125" width="125"></p></td>
+            <td width="25%"><p align="center"><img src="/images/badge_aws_certified_solutions_architect_associate.png" alt="" height="125" width="125"></p></td>
+        </tr>
+        <tr>
+            <td><p align="center"><a href="https://www.credly.com/badges/14377f94-0763-40ff-8172-acbb445a0f0b">AWS Certified Cloud Practitioner</a></p></td>
+            <td><p align="center"><a href="https://www.credly.com/badges/313bb8d3-5314-4bab-9032-376fe8bf1f67">AWS Certified Solutions Architect - Associate</a></p></td>
+        </tr>
+    </table>
+</details>
+
+<details>
+  <summary>Microsoft Certification</summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</details>
+
+<details>
+  <summary>Oracle Cloud Certification</summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</details>
+
 ## Stats 📈 ##
 
 <p align="center">
