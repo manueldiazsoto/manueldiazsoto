@@ -7,16 +7,19 @@
 - Eternal learner 📚 
 - Currently working 💻 as <strong>Senior Consultant</strong>
 
+</br>
+</br>
+</br>
+
 ## 🔗  Connect with me ##
 
 <p align="center">
     <a href="https://github.com/manueldiazsoto"><img src="/images/icon-github.png" alt="GitHub" height="65" width="65"></a>
     <a href="https://www.linkedin.com/in/manueldiazsoto/"><img src="/images/icon-linkedin.png" alt="LinkedIn" height="65" width="65"></a>
-    <a href="https://www.credly.com/users/manueldiazsoto"><img src="/images/icon-credly.png" alt="Credly" height="65" width="65"></a>
-    <a href="https://www.credential.net/profile/manueldiazsoto/wallet"><img src="/images/icon-accredible.png" alt="Accredible.net" height="65" width="65"></a>
-    <a href="https://g.dev/manueldiazsoto"><img src="/images/icon-googledev.png" alt="Google Developer" height="65" width="65"></a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/120ef6de-26a5-42d4-93ce-e239968f37ab"><img src="/images/icon-qwiklabs.jpeg" alt="QwikLabs" height="65" width="65"></a>
 </p>
+</br>
+</br>
+</br>
 
 ## 🏅  Certifications ##
 
@@ -33,7 +36,6 @@
         </tr>
     </table>
 </details>
-
 <details>
     <summary><strong>Google Cloud Certification</strong></summary>
     </br>
@@ -46,7 +48,6 @@
         </tr>
     </table>
 </details>
-
 <details>
     <summary><strong>AWS Certification</strong></summary>
     </br>
@@ -61,7 +62,6 @@
         </tr>
     </table>
 </details>
-
 <details>
     <summary><strong>Microsoft Certification</strong></summary>
     </br>
@@ -104,19 +104,18 @@
         </tr>
         <tr>
             <td width="200"><p align="center"><img src="/images/badge_ms_dp100.png" alt="" height="125" width="125"></p></td>
-            <td width="200"><p align="center"><img src="#" alt="" height="125" width="125"></p></td>
-            <td width="200"><p align="center"><img src="#" alt="" height="125" width="125"></p></td>
-            <td width="200"><p align="center"><img src="#" alt="" height="125" width="125"></p></td>
+            <td width="200"></td>
+            <td width="200"></td>
+            <td width="200"></td>
         </tr>
         <tr>
             <td><p align="center"><a href="https://www.credly.com/badges/8c586eb6-88fc-4104-9a3f-ce6549405a28">Microsoft Certified: Azure Data Scientist Associate</a></p></td>
-            <td><p align="center"><a href="#"></a></p></td>
-            <td><p align="center"><a href="#"></a></p></td>
-            <td><p align="center"><a href="#"></a></a></p></td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
     </table>
 </details>
-
 <details>
     <summary><strong>Oracle Cloud Certification</strong></summary>
     </br>
@@ -130,8 +129,11 @@
         </tr>
     </table>
 </details>
+</br>
+</br>
+</br>
 
-## 🎖  Reconocimientos ##
+## 🎖  Acknowledgments ##
 
 <details>
     <summary><strong>Microsoft Certified Trainer</strong></summary>
@@ -149,7 +151,21 @@
         </tr>
     </table>
 </details>
+</br>
+</br>
+</br>
 
+## 👉🏻  All Certifications and Acknowledgments ##
+
+<p align="center">
+    <a href="https://www.credly.com/users/manueldiazsoto"><img src="/images/icon-credly.png" alt="Credly" height="65" width="65"></a>
+    <a href="https://www.credential.net/profile/manueldiazsoto/wallet"><img src="/images/icon-accredible.png" alt="Accredible.net" height="65" width="65"></a>
+    <a href="https://g.dev/manueldiazsoto"><img src="/images/icon-googledev.png" alt="Google Developer" height="65" width="65"></a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/120ef6de-26a5-42d4-93ce-e239968f37ab"><img src="/images/icon-qwiklabs.jpeg" alt="QwikLabs" height="65" width="65"></a>
+</p>
+</br>
+</br>
+</br>
 
 <!-- 
 ## 📈 Stats ##
