@@ -35,6 +35,23 @@
     </tr>
 </table>
 
+<body>
+  <div style="display: table; width: 100%; border-collapse: collapse;">
+    <div style="display: table-row;">
+      <div style="display: table-cell; border: 1px solid black; text-align: center; padding: 10px;">Texto 1</div>
+      <div style="display: table-cell; border: 1px solid black; text-align: center; padding: 10px;">Texto 2</div>
+      <div style="display: table-cell; border: 1px solid black; text-align: center; padding: 10px;"><img src="ruta_de_la_imagen_1.jpg" width="100" height="100" alt="Imagen 1"></div>
+      <div style="display: table-cell; border: 1px solid black; text-align: center; padding: 10px;">Texto 3</div>
+    </div>
+    <div style="display: table-row;">
+      <div style="display: table-cell; border: 1px solid black; text-align: center; padding: 10px;"><img src="ruta_de_la_imagen_2.jpg" width="100" height="100" alt="Imagen 2"></div>
+      <div style="display: table-cell; border: 1px solid black; text-align: center; padding: 10px;">Texto 4</div>
+      <div style="display: table-cell; border: 1px solid black; text-align: center; padding: 10px;">Texto 5</div>
+      <div style="display: table-cell; border: 1px solid black; text-align: center; padding: 10px;"><img src="ruta_de_la_imagen_3.jpg" width="100" height="100" alt="Imagen 3"></div>
+    </div>
+  </div>
+</body>
+
 ## Stats 📈 ##
 
 <p align="center">
