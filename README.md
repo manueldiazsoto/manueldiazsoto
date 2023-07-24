@@ -24,7 +24,7 @@
     <summary><strong>Aviatrix Certification</strong></summary>
     <table>
         <tr>
-            <td width="250"><p align="center"><img src="/images/badge_aviatrix_multicloud_network_associate.png" alt="" height="125" wi
+            <td width="200"><p align="center"><img src="/images/badge_aviatrix_multicloud_network_associate.png" alt="" height="125" wi
             dth="125"></p></td>
         </tr>
         <tr>
@@ -37,7 +37,7 @@
     <summary><strong>Google Cloud Certification</strong></summary>
     <table>
         <tr>
-            <td width="250"><p align="center"><img src="/images/badge_google_cloud_certified_cloud_digital_leader.png" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="/images/badge_google_cloud_certified_cloud_digital_leader.png" alt="" height="125" width="125"></p></td>
         </tr>
         <tr>
             <td><p align="center"><a href="https://www.credential.net/5916bb03-d3bf-4c74-a186-88db50f071ff">Google Cloud Certified - Cloud Digital Leader</a></p></td>
@@ -49,8 +49,8 @@
     <summary><strong>AWS Certification</strong></summary>
     <table>
         <tr>
-            <td width="250"><p align="center"><img src="/images/badge_aws_certified_cloud_practitioner.png" alt="" height="125" width="125"></p></td>
-            <td width="250"><p align="center"><img src="/images/badge_aws_certified_solutions_architect_associate.png" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="/images/badge_aws_certified_cloud_practitioner.png" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="/images/badge_aws_certified_solutions_architect_associate.png" alt="" height="125" width="125"></p></td>
         </tr>
         <tr>
             <td><p align="center"><a href="https://www.credly.com/badges/14377f94-0763-40ff-8172-acbb445a0f0b">AWS Certified Cloud Practitioner</a></p></td>
@@ -63,10 +63,10 @@
   <summary><strong>Microsoft Certification</strong></summary>
     <table>
         <tr>
-            <td width="250"><p align="center"><img src="/images/badge_ms_az900.png" alt="" height="125" width="125"></p></td>
-            <td width="250"><p align="center"><img src="/images/badge_ms_dp900.png" alt="" height="125" width="125"></p></td>
-            <td width="250"><p align="center"><img src="/images/badge_ms_ai900.png" alt="" height="125" width="125"></p></td>
-            <td width="250"><p align="center"><img src="/images/badge_ms_pl900.png" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="/images/badge_ms_az900.png" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="/images/badge_ms_dp900.png" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="/images/badge_ms_ai900.png" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="/images/badge_ms_pl900.png" alt="" height="125" width="125"></p></td>
         </tr>
         <tr>
             <td><p align="center"><a href="https://www.credly.com/badges/4e80a159-65e4-4832-8ae2-42e691cb33f0">Microsoft Certified: Azure Fundamentals</a></p></td>
@@ -76,16 +76,16 @@
 </a></p></td>
         </tr>
         <tr>
-            <td width="250"></td>
-            <td width="250"></td>
-            <td width="250"></td>
-            <td width="250"></td>
+            <td width="200"></td>
+            <td width="200"></td>
+            <td width="200"></td>
+            <td width="200"></td>
         </tr>
         <tr>
-            <td width="250"><p align="center"><img src="/images/badge_ms_sc900.png" alt="" height="125" width="125"></p></td>
-            <td width="250"><p align="center"><img src="/images/badge_ms_mb910.png" alt="" height="125" width="125"></p></td>
-            <td width="250"><p align="center"><img src="/images/badge_ms_az104.png" alt="" height="125" width="125"></p></td>
-            <td width="250"><p align="center"><img src="/images/badge_ms_az204.png" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="/images/badge_ms_sc900.png" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="/images/badge_ms_mb910.png" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="/images/badge_ms_az104.png" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="/images/badge_ms_az204.png" alt="" height="125" width="125"></p></td>
         </tr>
         <tr>
             <td><p align="center"><a href="https://www.credly.com/badges/2c5ce055-c6db-4306-a857-92c4bc741546">Microsoft Certified: Security, Compliance, and Identity Fundamentals</a></p></td>
@@ -94,16 +94,16 @@
             <td><p align="center"><a href="https://www.credly.com/badges/a612272d-3258-4c22-ad97-fb80d43d9f2c">Microsoft Certified: Azure Developer Associate</a></p></td>
         </tr>
         <tr>
-            <td width="250"></td>
-            <td width="250"></td>
-            <td width="250"></td>
-            <td width="250"></td>
+            <td width="200"></td>
+            <td width="200"></td>
+            <td width="200"></td>
+            <td width="200"></td>
         </tr>
         <tr>
-            <td width="250"><p align="center"><img src="/images/badge_ms_dp100" alt="" height="125" width="125"></p></td>
-            <td width="250"><p align="center"><img src="#" alt="" height="125" width="125"></p></td>
-            <td width="250"><p align="center"><img src="#" alt="" height="125" width="125"></p></td>
-            <td width="250"><p align="center"><img src="#" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="/images/badge_ms_dp100" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="#" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="#" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="#" alt="" height="125" width="125"></p></td>
         </tr>
         <tr>
             <td><p align="center"><a href="https://www.credly.com/badges/8c586eb6-88fc-4104-9a3f-ce6549405a28">Microsoft Certified: Azure Data Scientist Associate</a></p></td>
@@ -118,7 +118,7 @@
     <summary><strong>Oracle Cloud Certification</strong></summary>
     <table>
         <tr>
-            <td width="250"><p align="center"><img src="/images/badge_oracle_cloud_infrastructure_foundations_2021_certified_associate.png" alt="" height="125" wi
+            <td width="200"><p align="center"><img src="/images/badge_oracle_cloud_infrastructure_foundations_2021_certified_associate.png" alt="" height="125" wi
             dth="125"></p></td>
         </tr>
         <tr>
@@ -133,9 +133,9 @@
   <summary><strong>Microsoft Certified Trainer</strong></summary>
     <table>
         <tr>
-            <td width="250"><p align="center"><img src="/images/badge_mct_21-22.png" alt="" height="125" width="125"></p></td>
-            <td width="250"><p align="center"><img src="/images/badge_mct_22-23.png" alt="" height="125" width="125"></p></td>
-            <td width="250"><p align="center"><img src="/images/badge_mct_23-24.png" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="/images/badge_mct_21-22.png" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="/images/badge_mct_22-23.png" alt="" height="125" width="125"></p></td>
+            <td width="200"><p align="center"><img src="/images/badge_mct_23-24.png" alt="" height="125" width="125"></p></td>
         </tr>
         <tr>
             <td><p align="center"><a href="https://www.credly.com/badges/7f21cf8d-7095-4e4c-ada6-8095a55db104">Microsoft Certified Trainer 2021-2022</a></p></td>
