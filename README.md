@@ -13,9 +13,9 @@
 
 ## 🔗  Connect with me ##
 
+[![](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/manueldiazsoto)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manueldiazsoto/)
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manueldiazsoto/)  
-[![](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/manueldiazsoto)  
 
 </br>
 
