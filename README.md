@@ -20,7 +20,7 @@
 
 ## Certifications ##
 
-<table>
+<table style="border-collapse:collapse;">
     <tr>
         <td width="25%"><p align="center"><img src="/images/badge_aviatrix_multicloud_network_associate.png" alt="" height="100" width="100"></p></td>
         <td width="25%"><p align="center"><img src="/images/badge_google_cloud_certified_cloud_digital_leader.png" alt="" height="100" width="100"></p></td>
