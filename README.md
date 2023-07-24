@@ -1,13 +1,13 @@
 # Hi, I'm Manuel 👋🏻 #
 
-## 👨🏻‍💻 About Me ##
+## 👨🏻‍💻  About Me ##
 
 - Networking Engineer 🎓 reinvented to Cloud 💬 
 - Programming enthusiastic 👨🏻‍💻 
 - Eternal learner 📚 
 - Currently working 💻 as <strong>Senior Consultant</strong>
 
-## 🔗 Connect with me ##
+## 🔗  Connect with me ##
 
 <p align="center">
     <a href="https://github.com/manueldiazsoto"><img src="/images/icon-github.png" alt="GitHub" height="65" width="65"></a>
@@ -18,9 +18,9 @@
     <a href="https://www.cloudskillsboost.google/public_profiles/120ef6de-26a5-42d4-93ce-e239968f37ab"><img src="/images/icon-qwiklabs.jpeg" alt="QwikLabs" height="65" width="65"></a>
 </p>
 
-## 🏅 Certifications ##
+## 🏅  Certifications ##
 
-<details>
+<details open>
     <summary><strong>Aviatrix Certification</strong></summary>
     <table style="border-collapse:collapse;">
         <tr>
@@ -33,7 +33,7 @@
     </table>
 </details>
 
-<details>
+<details open>
     <summary><strong>Google Cloud Certification</strong></summary>
     <table style="border-collapse:collapse;">
         <tr>
@@ -45,7 +45,7 @@
     </table>
 </details>
 
-<details>
+<details open>
     <summary><strong>AWS Certification</strong></summary>
     <table style="border-collapse:collapse;">
         <tr>
@@ -59,12 +59,12 @@
     </table>
 </details>
 
-<details>
+<details open>
   <summary><strong>Microsoft Certification</strong></summary>
   <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
 </details>
 
-<details>
+<details open>
   <summary><strong>Oracle Cloud Certification</strong></summary>
   <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
 </details>
