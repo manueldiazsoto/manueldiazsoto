@@ -148,6 +148,7 @@
 
 </br>
 
+<!--
 ## 👉🏻  All My Certifications and Acknowledgments ##
 
 <p align="center">
@@ -158,6 +159,7 @@
 </p>
 
 </br>
+-->
 
 ## 📈 Stats ##
 
