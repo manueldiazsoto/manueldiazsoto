@@ -22,16 +22,16 @@
 
 <table>
     <tr>
-        <td style="text-align: center;"><p align="center"><img src="/images/badge_aviatrix_multicloud_network_associate.png" alt="" height="100" width="100"></p></td>
-        <td style="text-align: center;"><p align="center"><img src="/images/badge_google_cloud_certified_cloud_digital_leader.png" alt="" height="100" width="100"></p></td>
-        <td style="text-align: center;"><p align="center"><img src="/images/badge_aws_certified_cloud_practitioner.png" alt="" height="100" width="100"></td>
-        <td style="text-align: center;"><p align="center"><img src="/images/badge_aws_certified_solutions_architect_associate.png" alt="" height="100" width="100"></td>
+        <td><p align="center"><img src="/images/badge_aviatrix_multicloud_network_associate.png" alt="" height="100" width="100"></p></td>
+        <td><p align="center"><img src="/images/badge_google_cloud_certified_cloud_digital_leader.png" alt="" height="100" width="100"></p></td>
+        <td><p align="center"><img src="/images/badge_aws_certified_cloud_practitioner.png" alt="" height="100" width="100"></p></td>
+        <td><p align="center"><img src="/images/badge_aws_certified_solutions_architect_associate.png" alt="" height="100" width="100"></p></td>
     </tr>
     <tr>
-        <td><a href="https://www.credly.com/badges/b321726a-fec4-495e-ab7e-e8814d8b9f59">Aviatrix Certified Engineer - Multi-Cloud Network Associate</a></td>
-        <td><a href="https://www.credential.net/5916bb03-d3bf-4c74-a186-88db50f071ff">Google Cloud Certified - Cloud Digital Leader</a></td>
-        <td><a href="https://www.credly.com/badges/14377f94-0763-40ff-8172-acbb445a0f0b">AWS Certified Cloud Practitioner</a></td>
-        <td><a href="https://www.credly.com/badges/313bb8d3-5314-4bab-9032-376fe8bf1f67">AWS Certified Solutions Architect - Associate</a></td>
+        <td><p align="center"><a href="https://www.credly.com/badges/b321726a-fec4-495e-ab7e-e8814d8b9f59">Aviatrix Certified Engineer - Multi-Cloud Network Associate</a></p></td>
+        <td><p align="center"><a href="https://www.credential.net/5916bb03-d3bf-4c74-a186-88db50f071ff">Google Cloud Certified - Cloud Digital Leader</a></p></td>
+        <td><p align="center"><a href="https://www.credly.com/badges/14377f94-0763-40ff-8172-acbb445a0f0b">AWS Certified Cloud Practitioner</a></p></td>
+        <td><p align="center"><a href="https://www.credly.com/badges/313bb8d3-5314-4bab-9032-376fe8bf1f67">AWS Certified Solutions Architect - Associate</a></p></td>
     </tr>
 </table>
 
