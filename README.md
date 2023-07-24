@@ -22,7 +22,7 @@
 
 | | | | |
 | --- | --- | --- | --- |
-| <a href="./images/badges/aviatrix_multicloud_network_associate.png" alt="" height="65" width="65"> | <a href="/images/badges/google_cloud_certified_cloud_digital_leader.png" alt="" height="65" width="65"> | <a href="/images/badges/aws_certified_cloud_practitioner.png" alt="" height="65" width="65"> | <a href="/images/badges/aws_certified_solutions_architect_associate.png" alt="" height="65" width="65"> |
+| <a href="./images/badges/aviatrix_multicloud_network_associate.png" alt="" height="65" width="65"> | <a href="./images/badges/google_cloud_certified_cloud_digital_leader.png" alt="" height="65" width="65"> | <a href="/images/badges/aws_certified_cloud_practitioner.png" alt="" height="65" width="65"> | <a href="/images/badges/aws_certified_solutions_architect_associate.png" alt="" height="65" width="65"> |
 | [Aviatrix Certified Engineer - Multi-Cloud Network Associate](https://www.credly.com/badges/b321726a-fec4-495e-ab7e-e8814d8b9f59) | [Google Cloud Certified - Cloud Digital Leader](https://www.credential.net/5916bb03-d3bf-4c74-a186-88db50f071ff) | [AWS Certified Cloud Practitioner](https://www.credly.com/badges/14377f94-0763-40ff-8172-acbb445a0f0b) | [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/313bb8d3-5314-4bab-9032-376fe8bf1f67) |
 
 ## Stats 📈 ##
