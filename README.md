@@ -13,12 +13,10 @@
 
 ## 🔗  Connect with me ##
 
-<p align="center">
-    <a href="https://github.com/manueldiazsoto"><img src="/images/icon-github.png" alt="GitHub" height="65" width="65"></a>
-    <a href="https://www.linkedin.com/in/manueldiazsoto/"><img src="/images/icon-linkedin.png" alt="LinkedIn" height="65" width="65"></a>
-</p>
-</br>
-</br>
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manueldiazsoto/)
+[![](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white)](https://github.com/manueldiazsoto)  
+
 </br>
 
 ## 🏅  Certifications ##
@@ -155,7 +153,7 @@
 </br>
 </br>
 
-## 👉🏻  All Certifications and Acknowledgments ##
+## 👉🏻  All My Certifications and Acknowledgments ##
 
 <p align="center">
     <a href="https://www.credly.com/users/manueldiazsoto"><img src="/images/icon-credly.png" alt="Credly" height="65" width="65"></a>
@@ -166,6 +164,8 @@
 </br>
 </br>
 </br>
+
+![](https://komarev.com/ghpvc/?username=manueldiazsoto)
 
 <!-- 
 ## 📈 Stats ##
