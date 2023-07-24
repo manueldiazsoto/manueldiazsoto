@@ -22,10 +22,10 @@
 
 <table>
     <tr>
-        <td style="width:25%;"><p align="center"><img src="/images/badge_aviatrix_multicloud_network_associate.png" alt="" height="100" width="100"></p></td>
-        <td style="width:25%;"><p align="center"><img src="/images/badge_google_cloud_certified_cloud_digital_leader.png" alt="" height="100" width="100"></p></td>
-        <td style="width:25%;"><p align="center"><img src="/images/badge_aws_certified_cloud_practitioner.png" alt="" height="100" width="100"></p></td>
-        <td style="width:25%;"><p align="center"><img src="/images/badge_aws_certified_solutions_architect_associate.png" alt="" height="100" width="100"></p></td>
+        <td width="25%"><p align="center"><img src="/images/badge_aviatrix_multicloud_network_associate.png" alt="" height="100" width="100"></p></td>
+        <td width="25%"><p align="center"><img src="/images/badge_google_cloud_certified_cloud_digital_leader.png" alt="" height="100" width="100"></p></td>
+        <td width="25%"><p align="center"><img src="/images/badge_aws_certified_cloud_practitioner.png" alt="" height="100" width="100"></p></td>
+        <td width="25%"><p align="center"><img src="/images/badge_aws_certified_solutions_architect_associate.png" alt="" height="100" width="100"></p></td>
     </tr>
     <tr>
         <td><p align="center"><a href="https://www.credly.com/badges/b321726a-fec4-495e-ab7e-e8814d8b9f59">Aviatrix Certified Engineer - Multi-Cloud Network Associate</a></p></td>
