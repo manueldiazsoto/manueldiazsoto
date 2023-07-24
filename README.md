@@ -8,14 +8,11 @@
 - Currently working 💻 as <strong>Senior Consultant</strong>
 
 </br>
-</br>
-</br>
 
 ## 🔗  Connect with me ##
 
 [![](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/manueldiazsoto)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manueldiazsoto/)
-
 
 </br>
 
@@ -127,8 +124,7 @@
         </tr>
     </table>
 </details>
-</br>
-</br>
+
 </br>
 
 ## 🎖  Acknowledgments ##
@@ -149,8 +145,7 @@
         </tr>
     </table>
 </details>
-</br>
-</br>
+
 </br>
 
 ## 👉🏻  All My Certifications and Acknowledgments ##
@@ -161,8 +156,7 @@
     <a href="https://g.dev/manueldiazsoto"><img src="/images/icon-googledev.png" alt="Google Developer" height="65" width="65"></a>
     <a href="https://www.cloudskillsboost.google/public_profiles/120ef6de-26a5-42d4-93ce-e239968f37ab"><img src="/images/icon-qwiklabs.jpeg" alt="QwikLabs" height="65" width="65"></a>
 </p>
-</br>
-</br>
+
 </br>
 
 ## 📈 Stats ##
@@ -171,4 +165,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueldiazsoto&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="150"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=manueldiazsoto&hide=contribs,prs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="150">
 </p>
 </br>
-<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=manueldiazsoto" alt="Manuel Diaz Soto" /> <h2>
+<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=manueldiazsoto" alt="Manuel Diaz Soto" /><h2>
+</br>
